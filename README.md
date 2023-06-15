@@ -1,5 +1,5 @@
 # A dióda lézer pumpált cw üzemű rubin lézer elméleti alapjai
-## Tati Balázs
+## Tari Balázs
 ### Kivonat
 
 Néhány nemrégiben megjelent cikkekben: (Krupke & Zweiback, 2020); (Luhs & Wellegehausen, Diode pumped cw ruby laser, 2019); (Luhs, Wellegehausen, Zuber, & Morgner, 2021) beszámoltak 405 nm-es lézerdiódákkal pumpált cw üzemű rubinlézerek működésről. A leírtak alapján több mint 60 évvel ezelőtt az első lézer megépítése óta (Maiman T. H., 1960) mind a villanó lámpa pumpált, mind a dióda lézer pumpált cw üzemű lézerek még mindig izgalmas eszközként számítanak a metrológiai alkalmazásokban. Ebben a tanulmányban megismerkedhetünk hogyan épül fel egy dióda lézerrel pumpált cw üzemű rubin lézer. A kiválasztott rezonátor típusa hemiszférikus, mely könnyen kezelhető és érzéketlen az eltolódásra. Emiatt ugyanakkor kialakulhatnak transzverzális módusok (leginkább TEM00). A kiválasztott üzemmód cw, azaz folytonos. 
