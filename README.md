@@ -1,4 +1,4 @@
-# Ruby-laser
+# A dióda lézer pumpált cw üzemű rubin lézer elméleti alapjai
 
 ## Kivonat
 
